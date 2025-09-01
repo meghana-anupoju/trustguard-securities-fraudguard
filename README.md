@@ -1,56 +1,69 @@
-SEBI Fraud Guard by TrustGuard Technologies
-Project Overview
-SEBI Fraud Guard is an AI-powered platform designed to protect retail investors in India’s securities market. It combines advanced fraud detection modules including investment advisor verification, deepfake detection, social media monitoring, corporate announcement validation, and fake trading app detection. Aligned with SEBI’s Safe Space initiative, it aims to safeguard investors and maintain market integrity.
+# SEBI Fraud Guard by TrustGuard Technologies
 
-Features
-Real-time Verification of SEBI-registered advisors
+## Project Overview  
+SEBI Fraud Guard is an AI-powered platform designed to protect retail investors in India’s securities market. It integrates multi-module fraud detection including advisor verification, deepfake detection, social media monitoring, corporate announcement validation, and fake trading app detection. This initiative supports SEBI’s Safe Space mission to ensure a secure investment environment.
 
-AI-based Deepfake Video and Audio Detection
+## Demo Link  
+[Live Demo](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/4ec419f65eccac745d41fd8ebe56c3b2/f8cd9412-0a4e-4baa-a44b-7e4ec4bf678b/index.html)
 
-Social Media Pattern and Sentiment Analysis for Manipulative Stock Tips
+## GitHub Repository  
+[TrustGuard Securities FraudGuard GitHub Repo](https://github.com/meghana-anupoju/trustguard-securities-fraudguard)
 
-Corporate Announcement Cross-verification and Credibility Scoring
+---
 
-Fake Trading Application Identification
+## Features  
+- Real-time verification of SEBI-registered investment advisors  
+- AI-driven detection of deepfake videos and audios  
+- Social media monitoring for suspicious market manipulation activities  
+- Cross-verification and credibility scoring of corporate announcements  
+- Fake trading app detection with risk scoring  
+- Interactive dashboard with alerts and reporting  
+- Compliance checks aligned with SEBI regulations
 
-Visual Dashboards and Risk Alerts
+## Technology Stack  
+- Artificial Intelligence (AI) and Machine Learning (ML)  
+- Blockchain for immutable verification  
+- Web technologies: HTML, CSS, JavaScript, Chart.js  
+- Integration with SEBI’s official databases and APIs  
+- Cloud-based architecture for scalability and real-time processing
 
-Automated Compliance Checks and Reporting
+---
 
-Technology Stack
-Artificial Intelligence / Machine Learning
+## Usage  
+Navigate modules using the sidebar:  
+- Use Advisor Verification to check credentials  
+- Upload files for Deepfake Detection analysis  
+- Input stock symbols for social media monitoring  
+- Enter corporate announcements for credibility checks  
+- Assess trading apps for authenticity
 
-Blockchain for Immutable Verification
+---
 
-JavaScript, HTML, CSS with Chart.js for Frontend
+## Contribution  
+Contributions are welcome! Please open issues or submit pull requests for bug fixes, enhancements, or new features.
 
-Cloud-based Data Processing and API Integration
+---
 
-Getting Started
-Clone the repository
+## Potential Impact  
+SEBI Fraud Guard empowers investors by providing timely, actionable fraud alerts and supports regulators in maintaining market integrity. Its modular, scalable design allows easy expansion and adoption across financial institutions.
 
-Open index.html in any modern web browser
+---
 
-Explore modules via the sidebar navigation
+## License  
+This project is licensed under the MIT License – see the LICENSE file for details.
 
-Use sample inputs to simulate verification and detection processes
+---
 
-Usage
-The application is interactive and modular, supporting:
+## Contact  
+For questions, collaboration, or support, contact:  
+**TrustGuard Technologies**  
+Email: anupojumeghana9305@gmail.com
+GitHub: [meghana-anupoju](https://github.com/meghana-anupoju)  
+linkedin: https://www.linkedin.com/in/meghana-anupoju-66a3aa2b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnLxE9vlOTPyagPsQySo0fg%3D%3D
 
-Advisor detail verification with risk scores
+---
 
-Upload and analysis of video/audio files for deepfake detection
+*Thank you for using SEBI Fraud Guard! Together, we can build a safer securities market.*  
 
-Stock symbol inputs for social media monitoring
 
-Corporate announcements verification input forms
-
-Fake app risk assessment forms
-
-Contribution
-Contributions to enhance modules, add new fraud detection techniques, or improve UI/UX are welcome. Please submit issues or pull requests.
-
-Contact
-For questions or collaboration, contact TrustGuard Technologies at [anupojumeghana9305@gmail.com].
 
